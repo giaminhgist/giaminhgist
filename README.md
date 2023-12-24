@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20in%20Suit%20Levitating%20Medium-Light%20Skin%20Tone.png" alt="Person in Suit Levitating Medium-Light Skin Tone" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20in%20Suit%20Levitating%20Medium-Light%20Skin%20Tone.png" alt="Person in Suit Levitating Medium-Light Skin Tone" width="100" height="100" />
   Hi! I am Hoang Gia Minh 
 </h1>
 
