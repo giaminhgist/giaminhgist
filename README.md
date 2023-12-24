@@ -12,7 +12,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/minh-hoang-gia/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF)](https://scholar.google.com/citations?user=Lo1YsfcAAAAJ)
 
-## <img height="50" src="[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png)"/> My Publications
+## <img height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png"/> My Publications
 
 ## &#x1f4c8; Stats
 
