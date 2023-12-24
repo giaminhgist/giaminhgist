@@ -14,8 +14,6 @@
 
 ## <img height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png"/> My Publications
 
-## &#x1f4c8; Stats
-
-<a href="https://github.com/giaminhgist/giaminhgist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giaminhgist&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
-</a>
+| Name| Year | Link | 
+|------------------------------------------------------------------------------|----------|-----------|
+|Effects of transcranial ultrasound stimulation pulsed at 40 Hz on Aβ plaques and brain rhythms in 5× FAD mice|2021|[![Link]](mailto:giaminh2022@gm.gist.ac.kr)
