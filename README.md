@@ -7,10 +7,10 @@
 
 ## <img height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png"/> Connect With Me
 <!-- Contacts -->
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:giaminh2022@gm.gist.ac.kr)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giaminh2022@gm.gist.ac.kr)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giaminhbk/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/minh-hoang-gia/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF)](https://scholar.google.com/citations?user=Lo1YsfcAAAAJ)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-hoang-gia/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/giaminh9698)
 
 ## <img height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png"/> My Publications
 
