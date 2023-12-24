@@ -16,4 +16,4 @@
 
 | Name| Year | Link | 
 |------------------------------------------------------------------------------|----------|-----------|
-|Effects of transcranial ultrasound stimulation pulsed at 40 Hz on Aβ plaques and brain rhythms in 5× FAD mice|2021|[![Link]](mailto:giaminh2022@gm.gist.ac.kr)
+|Effects of transcranial ultrasound stimulation pulsed at 40 Hz on Aβ plaques and brain rhythms in 5× FAD mice|2021|[Link](mailto:giaminh2022@gm.gist.ac.kr)
