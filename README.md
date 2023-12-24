@@ -11,3 +11,11 @@
 [![Facebook](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&color=229ED9)](https://www.facebook.com/giaminhbk/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/minh-hoang-gia/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF)](https://scholar.google.com/citations?user=Lo1YsfcAAAAJ)
+
+## &#x1f4c8; Stats
+[![](https://www.codewars.com/users/M1troll/badges/micro)](https://www.codewars.com/users/M1troll)
+![](https://visitor-badge.glitch.me/badge?page_id=M1troll.M1troll&left_text=Visitors&right_color=%23ff69b4)
+
+<a href="https://github.com/giaminhgist/giaminhgist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giaminhgist&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
+</a>
