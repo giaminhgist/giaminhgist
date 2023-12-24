@@ -7,7 +7,7 @@
 
 ## <img height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png"/> Connect With Me
 <!-- Contacts -->
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](giaminh2022@gm.gist.ac.kr)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:giaminh2022@gm.gist.ac.kr)
 [![Facebook](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&color=229ED9)](https://www.facebook.com/giaminhbk/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/minh-hoang-gia/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF)](https://scholar.google.com/citations?user=Lo1YsfcAAAAJ)
