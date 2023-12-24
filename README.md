@@ -1,5 +1,5 @@
 <h1>
-  <img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png)" width="30"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Mage%20Medium%20Skin%20Tone.png" alt="Man Mage Medium Skin Tone" width="25" height="25" />
   Hi! I am Hoang Gia Minh 
 </h1>
 
