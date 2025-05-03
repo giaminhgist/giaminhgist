@@ -19,4 +19,5 @@
 |Effects of transcranial ultrasound stimulation pulsed at 40 Hz on Aβ plaques and brain rhythms in 5× FAD mice|2021|[Link](https://doi.org/10.1186/s40035-021-00274-x)
 |Vision transformers for the prediction of mild cognitive impairment to Alzheimer’s disease progression using mid-sagittal sMRI|2023|[Link](https://doi.org/10.3389/fnagi.2023.1102869)
 |A reproducible 3D convolutional neural network with dual attention module (3D-DAM) for Alzheimer's disease classification|2023|[Link](https://doi.org/10.48550/arXiv.2310.12574)
+|Deep learning with guided attention for early diagnosis of Alzheimer's Disease|2025|[Link](https://doi.org/10.1088/1402-4896/add2a6)
 
