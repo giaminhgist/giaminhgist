@@ -3,11 +3,11 @@
   Hi! I am Hoang Gia Minh 
 </h1>
 
-* 📖 Studying PhD in Biomedical Science and Engineering @ [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/en/). 
+* 📖 Research Fellow in Mayo Clinic (The world's best hospital) - Scottsdale Campus @ [Mayo Clinic](https://www.mayoclinic.org/). 
 
 ## <img height="50" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png"/> Connect With Me
 <!-- Contacts -->
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giaminh2022@gm.gist.ac.kr)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoang.giaminh@mayo.edu)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/giaminhbk/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-hoang-gia/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/giaminh9698)
@@ -20,4 +20,5 @@
 |Vision transformers for the prediction of mild cognitive impairment to Alzheimer’s disease progression using mid-sagittal sMRI|2023|[Link](https://doi.org/10.3389/fnagi.2023.1102869)
 |A reproducible 3D convolutional neural network with dual attention module (3D-DAM) for Alzheimer's disease classification|2023|[Link](https://doi.org/10.48550/arXiv.2310.12574)
 |Deep learning with guided attention for early diagnosis of Alzheimer's Disease|2025|[Link](https://doi.org/10.1088/1402-4896/add2a6)
+|AttCORAL: Domain-Adaptive Attention Networks for Early Alzheimer’s Disease Diagnosis|2025|[Link](https://ieeexplore.ieee.org/document/11039780/)
 
