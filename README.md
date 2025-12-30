@@ -22,4 +22,5 @@
 |Deep learning with guided attention for early diagnosis of Alzheimer's Disease|2025|[Link](https://doi.org/10.1088/1402-4896/add2a6)
 |AttCORAL: Domain-Adaptive Attention Networks for Early Alzheimer’s Disease Diagnosis|2025|[Link](https://ieeexplore.ieee.org/document/11039780/)
 |QwenVLConnector: A Fast, Unified Medical VLM Chatbot for Fine-Grained Clinical Perception and Text Generation|2025|[Link](https://openreview.net/forum?id=FZZyXegzeQ/)
-
+|High-generalizability Deep Learning Framework for Early Detection of Mild Cognitive Impairment Progression to Alzheimer's Disease|2025|[Link](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz70856_101596)
+|Explainable Deep Learning for Multi-Cohort Alzheimer's Disease Classification using MRI: Insights into Pathological Brain Regions|2025|[Link](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz70856_101859)
