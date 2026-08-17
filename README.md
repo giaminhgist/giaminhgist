@@ -24,3 +24,5 @@
 |QwenVLConnector: A Fast, Unified Medical VLM Chatbot for Fine-Grained Clinical Perception and Text Generation|2025|[Link](https://openreview.net/forum?id=FZZyXegzeQ/)
 |High-generalizability Deep Learning Framework for Early Detection of Mild Cognitive Impairment Progression to Alzheimer's Disease|2025|[Link](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz70856_101596)
 |Explainable Deep Learning for Multi-Cohort Alzheimer's Disease Classification using MRI: Insights into Pathological Brain Regions|2025|[Link](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz70856_101859)
+|Nuclear Enlargement as a Histological Hallmark of Skeletal Muscle Aging, Revealed by Deep Learning‐Driven Analysis and Validated in Inflammatory Myopathies|2026|[Link](https://doi.org/10.1111/acel.70577).
+
