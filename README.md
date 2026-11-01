@@ -25,4 +25,6 @@
 |High-generalizability Deep Learning Framework for Early Detection of Mild Cognitive Impairment Progression to Alzheimer's Disease|2025|[Link](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz70856_101596)
 |Explainable Deep Learning for Multi-Cohort Alzheimer's Disease Classification using MRI: Insights into Pathological Brain Regions|2025|[Link](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz70856_101859)
 |Nuclear Enlargement as a Histological Hallmark of Skeletal Muscle Aging, Revealed by Deep Learning‐Driven Analysis and Validated in Inflammatory Myopathies|2026|[Link](https://doi.org/10.1111/acel.70577).
+|Human-Scale Rotating Magnetic Field Delivery With Permanent Magnets Under Anatomic and Robotic Constraints|2026|[Link](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adrr.70154).
+|Physiologic digital twins for decision support in multi-day ex vivo organ perfusion.|2026|[Link](https://www.nature.com/articles/s41746-026-03420-9).
 
